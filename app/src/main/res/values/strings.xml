@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">thirdlogindemo</string>
+  <string name="action_settings">Settings</string>
+  <!-- Strings used for fragments for navigation -->
+  <string name="first_fragment_label">First Fragment</string>
+  <string name="second_fragment_label">Second Fragment</string>
+  <string name="next">Next</string>
+  <string name="previous">Previous</string>
+
+  <string name="hello_first_fragment">Hello first fragment</string>
+  <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+  <!-- 注册facebook开发者平台后，需要在平台上注册android应用之后更新 -->
+  <string name="facebook_app_id">123456</string>
+  <!-- fb+appId -->
+  <string name="fb_login_protocol_scheme">fb123456</string>
+  <string name="facebook_client_token">987654321</string>
+</resources>
