@@ -13,6 +13,7 @@ A minimal implementation example for integrating third-party authentication.
 ---
 
 ## :arrow_forward: Quick Start
+[MainActivity](https://github.com/BugFreeCat/thirdLogin/blob/main/app/src/main/java/com/demo/thirdlogindemo/MainActivity.kt)
 
 ### 1. Clone Repository
 ```bash
